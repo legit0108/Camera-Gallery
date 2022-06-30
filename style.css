@@ -20,7 +20,6 @@ video {
 .action-cont {
     height: 12rem;
     width: 5rem;
-    /* background-color: lightblue; */
     position: absolute;
     top: calc( (100vh - 12rem) /2);
     right: 5rem;
